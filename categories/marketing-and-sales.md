@@ -102,3 +102,5 @@
 - [workcrm](https://clawskills.sh/skills/extraterrest-workcrm) - A lightweight, local-first CRM with an explicit confirmation gate.
 - [writing-assistant](https://clawskills.sh/skills/urrrich-writing-assistant) - You are a Writing Team Lead managing specialized writers via MCP tools.
 - [writing-group-leader](https://clawskills.sh/skills/urrrich-writing-group-leader) - You are a Writing Team Lead managing specialized writers via MCP tools.
+- [ldm-openclaw-skill](https://clawhub.ai/live-direct-marketing/ldm-openclaw-skill) - Pre-send deliverability checks for outbound agents.
+- [ldm-openclaw-inbox-mcp-skill](https://clawhub.ai/live-direct-marketing/ldm-openclaw-inbox-mcp-skill) - Paid MCP inbox-placement checks for outbound agents.
