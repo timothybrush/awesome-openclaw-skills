@@ -82,7 +82,7 @@
 - [pilt](https://clawskills.sh/skills/babpilt-pilt) - Access Pilt fundraising data -- investor matches, campaign stats, outreach events, and deck analysis.
 - [posthog](https://clawskills.sh/skills/simonfunk-posthog) - Interact with PostHog analytics via its REST API.
 - [posthog-query](https://clawskills.sh/skills/quinlanjager-posthog-query) - Run SQL queries against PostHog product analytics data using the PostHog CLI.
-- [postiz](https://github.com/openclaw/skills/tree/main/skills/nevo-david/postiz/SKILL.md) - Schedule social media posts and threads across 28+ platforms.
+- [postiz](https://clawskills.sh/skills/nevo-david-postiz) - Schedule social media posts and threads across 28+ platforms.
 - [reef-copywriting](https://clawskills.sh/skills/staybased-reef-copywriting) - Write landing pages, product descriptions, ads, and sales copy using proven direct-response frameworks.
 - [ryot](https://clawskills.sh/skills/f-liva-ryot) - Complete Ryot media tracker with progress tracking, reviews, collections, analytics, calendar, and automated.
 - [sentiment-priority-scorer](https://clawskills.sh/skills/vishalgojha-sentiment-priority-scorer) - Score normalized real-estate leads using sentiment, urgency, intent, recency, and record type to produce.
