@@ -15,7 +15,7 @@
 </div>
   
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Skills Count](https://img.shields.io/badge/skills-5198-blue?style=flat-square)](#table-of-contents)
+[![Skills Count](https://img.shields.io/badge/skills-5199-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
@@ -207,7 +207,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
-| [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
+| [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (52) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
 
 
@@ -842,6 +842,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-evolver](https://clawskills.sh/skills/lilei0311-agent-evolver) - AI Agent self-evolution engine that enables agents to learn from experience, detect problems, extract insights.
 - [agent-reflect](https://clawskills.sh/skills/stevengonsalvez-agent-reflect) - Self-improvement through conversation analysis.
 - [ai-persona-os](https://clawskills.sh/skills/jeffjhunter-ai-persona-os) - The complete operating system for OpenClaw agents.
+- [ai-shifu-course-creator](https://clawhub.ai/heshaofu2/ai-shifu-course-creator) - Build interactive AI-Shifu courses.
 - [anxiety-relief](https://clawskills.sh/skills/jhillin8-anxiety-relief) - Manage anxiety with grounding exercises, breathing techniques.
 - [apikiss](https://clawskills.sh/skills/theill-apikiss) - Access weather, IP geolocation, SMS, crypto prices, Danish CVR, Whois, phone lookup, UUID, stock data.
 - [beaverhabits](https://clawskills.sh/skills/daya0576-beaverhabits) - Track and manage your habits using the Beaver Habit Tracker API.
@@ -862,7 +863,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [fix-life-in-1-day](https://clawskills.sh/skills/evgyur-fix-life-in-1-day) - Fix your entire life in 1 day.
 - [founder-coach](https://clawskills.sh/skills/goforu-founder-coach) - AI-powered startup mindset coach that helps founders upgrade.
 
-> **[View all 51 skills in Personal Development →](categories/personal-development.md)**
+> **[View all 52 skills in Personal Development →](categories/personal-development.md)**
 </details>
 
 <details>
